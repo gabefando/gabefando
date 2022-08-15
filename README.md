@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 and I am a Full Stack Developer
 -------------------------------
 
-I'm a long time programmer who after completing many udemy courses and a full stack web development bootcamp with the Georgia Institute of Technology, I now know HTML, CSS, JavaScript, NodeJS+ExpressJS, ReactJS, and SQL. My specialty is full stack web development.
+I'm a long time programmer who after completing many udemy courses and a full stack web development bootcamp with the Georgia Institute of Technology, now knows HTML, CSS, JavaScript, NodeJS+ExpressJS, ReactJS, and SQL. My specialty is in full stack web development.
 
 * 🌍  I'm based in Atlanta!
 * ✉️  You can contact me at [gabe.fonseca.03@gmail.com](mailto:gabe.fonseca.03@gmail.com)
