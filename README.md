@@ -8,7 +8,7 @@ I'm a long time programmer who after completing many udemy courses and a full st
 
 * 🌍  I'm based in Atlanta!
 * ✉️  You can contact me at [gabe.fonseca.03@gmail.com](mailto:gabe.fonseca.03@gmail.com)
-* 🧠  I'm learning NoSQL and PWA.
+* 🧠  I'm learning Angular and C#.
 * 🤝  I'm open to collaborating on projects. Hmu!
 
 ### Skills
